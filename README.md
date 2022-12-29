@@ -6,9 +6,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ifratbinte&label=Profile%20views&color=0e75b6&style=flat" alt="ifratbinte" /> </p>
 
 
-- 🔭 I’m currently working on [School Management System](https://github.com/Ifratbinte/sm-system)
+- 🔭 I’m currently working on [School Management System](https://github.com/Ifratbinte/sm-system)**
+- 
+- - 🔭 I’m currently working on [Metal Advance](https://github.com/Ifratbinte/Metal_Advance)**
 
-- 🌱 I’m currently learning **React Js**
+- 🌱 I’m currently learning **Next.js, Web socket**
 
 - 📫 How to reach me **ifratbinte@gmail.com**
 
