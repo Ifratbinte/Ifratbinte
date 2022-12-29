@@ -7,8 +7,7 @@
 
 
 - 🔭 I’m currently working on [School Management System](https://github.com/Ifratbinte/sm-system)**
-- 
-- - 🔭 I’m currently working on [Metal Advance](https://github.com/Ifratbinte/Metal_Advance)**
+- 🔭 I’m currently working on [Metal Advance](https://github.com/Ifratbinte/Metal_Advance)**
 
 - 🌱 I’m currently learning **Next.js, Web socket**
 
