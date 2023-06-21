@@ -19,7 +19,7 @@
 
 - ⚡ Fun fact **I am Lazy**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ifratbinte" alt="ifratbinte" /></a> </p>
+<p align="left"><a href="https://app.daily.dev/ifratkazi"><img src="https://api.daily.dev/devcards/8544fd28cef84ba18ad0b6a6064ffd8b.png?r=1nu" width="400" alt="Ifrat Binte Kazi's Dev Card"/></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
