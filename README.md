@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kazi Ifrat</h1>
 <h3 align="center">A passionate Softwate Engineer from Bangladesh</h3>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<a href="https://app.daily.dev/ifratkazi"><img src="https://api.daily.dev/devcards/8544fd28cef84ba18ad0b6a6064ffd8b.png?r=1nu" width="400" alt="Ifrat Binte Kazi's Dev Card"/></a>
 
-<p align="left"> <a href="https://app.daily.dev/ifratkazi"><img src="https://api.daily.dev/devcards/8544fd28cef84ba18ad0b6a6064ffd8b.png?r=1nu" width="400" alt="Ifrat Binte Kazi's Dev Card"/></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ifratbinte&label=Profile%20views&color=0e75b6&style=flat" alt="ifratbinte" />  </p>
 
 - 🔭 I’m currently working on [Metal Advance](https://github.com/Ifratbinte/Metal_Advance)
 
