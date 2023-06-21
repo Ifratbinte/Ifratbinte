@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kazi Ifrat</h1>
 <h3 align="center">A passionate Softwate Engineer from Bangladesh</h3>
 
-<a href="https://app.daily.dev/ifratkazi"><img src="https://api.daily.dev/devcards/8544fd28cef84ba18ad0b6a6064ffd8b.png?r=1nu" width="400" alt="Ifrat Binte Kazi's Dev Card"/></a>
+<img src="https://api.daily.dev/devcards/8544fd28cef84ba18ad0b6a6064ffd8b.png?r=1nu" width="400" alt="Ifrat Binte Kazi's Dev Card"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ifratbinte&label=Profile%20views&color=0e75b6&style=flat" alt="ifratbinte" />  </p>
 
