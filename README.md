@@ -32,5 +32,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ifratbinte&show_icons=true&locale=en&layout=compact" alt="ifratbinte" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ifratbinte&show_icons=true&locale=en" alt="ifratbinte" /></p>
-
+<p dir="auto"><a href="https://wakatime.com/@cecff590-430d-472c-a823-e58df9f1d525" rel="nofollow"><img src="https://camo.githubusercontent.com/140f9f79c9b5dcb427b3fbece34ee98a955657e1018cf0a02534876d16e7f9b8/68747470733a2f2f77616b6174696d652e636f6d2f62616467652f757365722f37616633363434392d613265362d343131612d623264352d6661303661613238626663312e7376673f7374796c653d666f722d7468652d6261646765" alt="WakaTime Stats Total" data-canonical-src="https://wakatime.com/badge/user/7af36449-a2e6-411a-b2d5-fa06aa28bfc1.svg?style=for-the-badge" style="max-width: 100%;"></a></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ifratbinte&" alt="ifratbinte" /></p>
