@@ -52,7 +52,7 @@
 
 #### Dev Tools
 
-| Git & Github | Chrome Dev Tool  | POstman
+| Git & Github | Chrome Dev Tool  | Postman
 | :--- | :--- | :--- |
 | <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> | <a href="https://developer.chrome.com/docs/devtools/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_chrome/google_chrome-icon.svg" alt="Chrome Dev Tool" width="40" height="40"/> </a> | <a href="https://developer.chrome.com/docs/devtools/" target="_blank"> <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="Postman" width="40" height="40"/> </a> |
 
