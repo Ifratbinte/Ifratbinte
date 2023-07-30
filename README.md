@@ -84,11 +84,9 @@
 
 ### 👇 Have a look 👇
 
-[![WakaTime Stats Total](https://wakatime.com/badge/user/cecff590-430d-472c-a823-e58df9f1d525.svg?style=for-the-badge)](https://wakatime.com/@cecff590-430d-472c-a823-e58df9f1d525)
-
-</br>
-
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ifratbinte&show_icons=true&theme=gotham&layout=compact" alt="rahmatsubandi" />&nbsp;
+  [![WakaTime Stats Total](https://wakatime.com/badge/user/cecff590-430d-472c-a823-e58df9f1d525.svg?style=for-the-badge)](https://wakatime.com/@cecff590-430d-472c-a823-e58df9f1d525)
+  ![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=ifratbinte&layout=compact&langs_count=10&custom_title=Coding+Time&range=all_time&theme=graywhite&hide_title=true#gh-light-mode-only)
   <br />
   <img src="https://github-readme-stats.vercel.app/api?username=ifratbinte&show_icons=true&theme=gotham" alt="top lang" />
   <br />
@@ -98,6 +96,6 @@
 
 <div align="center">
 
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=ifratbinte&layout=compact&langs_count=10&custom_title=Coding+Time&range=all_time&theme=graywhite&hide_title=true#gh-light-mode-only)
+
 
 </div>
